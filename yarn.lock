@@ -1867,6 +1867,11 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@skalk/maude@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@skalk/maude/-/maude-0.0.2.tgz#172fbc5ee26b6f72d3899ee4e5d44f471f84077e"
+  integrity sha512-GJvdTLCpmCSolxeyVR+TPIMtpDt/o3iYjZ1/zlkHL64fWhHQQL53dUPqu1d50Ffu3TThyS/an5jUgUTB/22uDw==
+
 "@surma/rollup-plugin-off-main-thread@^1.1.1":
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/@surma/rollup-plugin-off-main-thread/-/rollup-plugin-off-main-thread-1.4.2.tgz#e6786b6af5799f82f7ab3a82e53f6182d2b91a58"

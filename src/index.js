@@ -2,7 +2,7 @@ import freesewing from '@freesewing/core'
 import plugins from '@freesewing/plugin-bundle'
 import config from '../config'
 import draftFront from './front'
-import Maude from 'maude'
+import Maude from '@skalk/maude'
 
 // Create new design
 const Pattern = new freesewing.Design(config, plugins)
