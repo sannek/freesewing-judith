@@ -48,11 +48,12 @@ export default {
     'seat'
   ],
   dependencies: {
+    baseFront: 'baseBack',
   },
   inject: {
     front: 'baseFront'
   },
-  hide: ['blockBase', 'neckBase', 'baseBack', 'baseFront'],
+  hide: ['blockBase', 'neckBase', 'baseBack', 'baseFront', 'baseBack'],
   parts: ['front'],
   options: {
     chestEase: { pct: 10, min: 5, max: 25 },
